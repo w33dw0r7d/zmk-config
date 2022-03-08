@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: nrf52840_m2
+  - board: nrfmicro_13_52833
     shield: jorne_left
-  - board: nrf52840_m2
+  - board: nrfmicro_13_52833
     shield: jorne_right
